@@ -1,0 +1,33 @@
+TASK 2 - GITHUB REPOSITORY DETAILS
+
+Repository Name:
+WD_Week6_Praveena
+
+Student Name:
+Praveena M
+
+GitHub Username:
+praveena050307-spec
+
+Repository Purpose:
+This repository contains the work completed for Week 6 of the Web Development Internship.
+
+Version Control:
+Git
+
+Repository Platform:
+GitHub
+
+Repository Visibility:
+Public
+
+Main Branch:
+main
+
+Project Structure:
+task1
+task2
+task3
+task4
+task5
+task6
