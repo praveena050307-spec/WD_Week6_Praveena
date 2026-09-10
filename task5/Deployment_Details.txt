@@ -1,0 +1,25 @@
+TASK 5 - GITHUB PAGES DEPLOYMENT
+
+Project Name:
+College Attendance Management System
+
+Deployment Platform:
+GitHub Pages
+
+Branch Used:
+main
+
+Deployment Status:
+Successfully deployed
+
+Website:
+[Paste your GitHub Pages live link here]
+
+GitHub Repository:
+https://github.com/praveena050307-spec/WD_Week6_Praveena
+
+Testing:
+The deployed website was tested in a web browser. The navigation, attendance button, student search feature, and responsive layout were checked successfully.
+
+Responsive Testing:
+The website was tested on desktop and mobile-sized screens. The layout adjusts using CSS media queries.
